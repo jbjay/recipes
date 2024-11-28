@@ -6,3 +6,4 @@
 * lemon
 * olive oil
 * salt
+*dont forget to peal the chickpeas skin
